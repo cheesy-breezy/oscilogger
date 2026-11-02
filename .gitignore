@@ -1,0 +1,21 @@
+# Signal recordings and generated exports
+/Signal Logs/
+/logs/
+/images/
+*.csv
+*.log
+
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local validation artifacts, settings and credentials
+/.validation/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
