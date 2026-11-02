@@ -13,6 +13,7 @@ __pycache__/
 .pytest_cache/
 
 # Local validation artifacts, settings and credentials
+/.scope_resource
 /.validation/
 .env
 .env.*
